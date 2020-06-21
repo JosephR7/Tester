@@ -2,7 +2,7 @@
 c#include <stdio.h>
 int main() {
    // printf() displays the string inside quotation
-   printf("Hello, Bengaluru");
+   printf("Hello, BLR");
    return 0;
 }
 
