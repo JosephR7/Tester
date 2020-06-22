@@ -7,7 +7,7 @@ void main()
   a=a+b;
   b=a-b;
 
-printf (if a = positive say "True")
+printf (if a = positive then say "True")
 ifnot "false"
 
 }
