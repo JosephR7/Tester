@@ -1,5 +1,16 @@
 My own repositery 
 
+#include <stdio.h>
+#include <conio.h>
+void main()
+{
+  a=a+b;
+  b=a-b;
 
-hi
+printf (if a = positive say "True")
+ifnot "false"
+
+}
+getch()
+
 
