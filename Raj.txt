@@ -6,7 +6,8 @@ void main()
 {
   a=a+b;
   b=a-b;
-
+ c=a/b
+   
 printf (if a = positive then say "True")
 ifnot "false"
 
