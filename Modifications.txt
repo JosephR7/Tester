@@ -11,3 +11,7 @@ git reset --soft <next commit_id>---------->
 git reset --hard <next commit_id>---------->
 
 git revert <commit_id>---------------------> 
+
+-----------------------------------------------------------
+
+git branch
