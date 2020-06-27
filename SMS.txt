@@ -3,6 +3,9 @@ All Department trainees joined in the training.
 
 ///But Not Impemented///
 <<<<<<< HEAD
+<<<<<<< HEAD
 @
+=======
+>>>>>>> 6385a0b... git cherry pick cmd using
 =======
 >>>>>>> 6385a0b... git cherry pick cmd using
