@@ -1,6 +1,0 @@
-today SMS trainig has done by Muskhan.
-All Department trainees joined in the training.
-
-///But Not Impemented///
-
->>>>>>> 6385a0b... git cherry pick cmd using
