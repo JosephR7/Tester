@@ -1,0 +1,7 @@
+NANO       
+today SMS trainig has done by Muskhan.
+All Department trainees joined in the training.
+
+///But Not Impemented///
+
+git cherry pick cmd using
