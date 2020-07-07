@@ -1,7 +1,25 @@
-My own repositery 
+My own repositery for practice purpose 
+
+#include <stdio.h>
+#include <conio.h>
+void main()
+{
+  a=a+b;
+  b=a-b;
+ c=a/b
+   
+printf (if a = positive then say "True")
+ifnot "false"
+
+}
+getch()
 
 
-hi
+git cherry pick
+
+git cherry pick
+
+git cherry pick
 
 git cherry pick
 
